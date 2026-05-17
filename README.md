@@ -28,4 +28,6 @@ The AI retrieves the most relevant transcript chunks and generates accurate, con
 * Responsive UI with modern design
 * Fast and scalable architecture
 
+#Remember that the api key used is deleted and will not be availaible .
+
 This project transforms passive video watching into an **interactive learning experience**, making YouTube content searchable, understandable, and much more productive.
